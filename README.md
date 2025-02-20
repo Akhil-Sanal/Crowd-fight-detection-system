@@ -19,7 +19,7 @@ This project leverages **Ultralytics YOLO** for real-time fight detection in cro
    ```
 2. Install dependencies:
    ```sh
-   pip install ultralytics opencv-python numpy pandas matplotlib
+   pip install -r requirements.txt
    ```
 
 ---
